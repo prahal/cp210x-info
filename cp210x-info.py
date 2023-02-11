@@ -30,7 +30,7 @@ class Cp210xInfo:
             self.major = major
             self.minor = minor
             self.build = build
-    
+
     def has_fwversion(self):
         if (self.partnum == Cp210xInfo.PARTNUM_CP2102N_QFN28 or
         self.partnum == Cp210xInfo.PARTNUM_CP2102N_QFN24 or
