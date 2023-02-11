@@ -1,5 +1,5 @@
 # cp210x-info
-Get cp210x chipset info
+Get Silicon Labs CP210x USB-to-UART bridge controllers Part number, CP2102N revision and firmware version.
 
 Depends on python3-usb, on Debian:
 `apt install python3-usb`
